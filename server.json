@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/chucknorris",
+  "title": "Chucknorris",
+  "description": "Chuck Norris MCP — wraps chucknorris.io (free, no auth)",
+  "version": "0.1.1",
+  "websiteUrl": "https://pipeworx.io/packs/chucknorris",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-chucknorris",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/chucknorris/mcp"
+    }
+  ]
+}
