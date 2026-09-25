@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-chucknorris",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Chuck Norris MCP — wraps chucknorris.io (free, no auth)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4c6a93a5ecd45913f21e5c815d3ad0a7c471fd0317dbe03d813e4fa69571ef70",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-300c3916247e50dfae0358d2cee8b367023ee6a26244e2a1fab7faa186cc3960",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }
