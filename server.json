@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/chucknorris",
   "title": "Chucknorris",
   "description": "Chuck Norris MCP — wraps chucknorris.io (free, no auth)",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/chucknorris",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-chucknorris",
