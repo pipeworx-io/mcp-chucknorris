@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-chucknorris",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Chuck Norris MCP — wraps chucknorris.io (free, no auth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "chucknorris",
     "gatewaySlug": "chucknorris",
-    "sourceHash": "v1-66fa9ea3afd548653ae3f0caafe005669f29913d03e2ba5b5fe1918abd02ebad",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-6b43711d0c9666f9692a1272862373020f7cc2d6b9845a2012e6ba37be27a7da",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
